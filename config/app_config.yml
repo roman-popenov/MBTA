@@ -1,0 +1,2 @@
+api_key: a46e5200f62247428f2ada49106cf579 # normally, this lives somewhere in vault instance and not be in plain text
+mbta_root_url: https://api-v3.mbta.com
