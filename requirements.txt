@@ -1,0 +1,5 @@
+requests~=2.25.1
+PyQt5~=5.15.4
+PyQt5-stubs==5.15.2.0
+PyYAML~=5.4.1
+iso8601~=0.1.14
